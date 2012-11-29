@@ -392,6 +392,7 @@ to get Travis working are on a `travis_setup` branch.
 
 Quickly, you get to where you want commits, say, only on the main branch and on
 pull requests.  Configure it, and it shall be so.
+This too goes in `.travis.yml`.
 
 Magic phrase in commit message: `[ci skip]`
 
