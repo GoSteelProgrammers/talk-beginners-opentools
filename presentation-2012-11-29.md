@@ -452,4 +452,8 @@ Will be linked to from <http://www.go-steel-programmers.org/>
 
 &copy; Apcera, Inc. 2012
 
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/deed.en_US">![Creative Commons License](images/CC-BY-88x31.png)</a>
+This work is licensed under a
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/deed.en_US">Creative Commons Attribution 3.0 United States License</a>.
+
 <!-- vim: set sw=4 et wrap : -->
