@@ -385,6 +385,25 @@ compatibility.
 
 ---
 
+# Too hot!  Too cold!
+
+By default, Travis runs on every commit.  This is good when your first commits
+to get Travis working are on a `travis_setup` branch.
+
+Quickly, you get to where you want commits, say, only on the main branch and on
+pull requests.  Configure it, and it shall be so.
+
+Magic phrase in commit message: `[ci skip]`
+
+    sks_spider$ git log
+
+Recent addition: easy UI to force a retry when something failed because of a
+transient glitch (eg, fetch from GitHub failed).
+
+![Travis Rebuild item in drop-down](images/travis-rebuild.png)
+
+---
+
 # Git pre-commit
 
 You can't run your own code on GitHub to verify a push.
@@ -430,5 +449,7 @@ wrappers.
 # Fin
 
 Will be linked to from <http://www.go-steel-programmers.org/>
+
+&copy; Apcera, Inc. 2012
 
 <!-- vim: set sw=4 et wrap : -->
