@@ -447,6 +447,15 @@ wrappers.
 
 ---
 
+# From the Audience
+
+* Learning Go: <http://tour.golang.org/> is a great tutorial
+* <http://labix.org/gocheck>: `gocheck` is a better testing framework for apps:
+
+> The Go language provides an internal testing library, named testing, which is relatively slim due to the fact that the standard library correctness by itself is verified using it. The gocheck package, on the other hand, expects the standard library from Go to be working correctly, and builds on it to offer a richer testing framework for libraries and applications to use.
+
+---
+
 # Fin
 
 Will be linked to from <http://www.go-steel-programmers.org/>
